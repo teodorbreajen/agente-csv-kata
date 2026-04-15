@@ -1,0 +1,6 @@
+id_venta,fecha,cliente,producto,cantidad,precio,total,email
+1,2026-03-01,Ana López,Curso IA,1,120,120,ana@email.com
+2,2026-03-02,Luis Pérez,Curso Python,2,90,180,luis@email.com
+3,2026-03-03,Marta Ruiz,Curso Excel,1,75,75,marta@email.com
+4,2026-03-04,Carlos Díaz,Curso Power BI,3,110,330,carlos@email.com
+5,2026-03-05,Elena Gil,Curso IA,1,120,120,elena@email.com
